@@ -4,8 +4,8 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "Galactic_Scale"
 name = "GalacticScale"
-versionNumber = "2.80.11"
-description = "v2.80.11 Galaxy Customization. New Planets. Different Sized Planets. Up to 100 Planets/star and 1024 Stars. DF is more or less balanced. See GS Discord Server"
+versionNumber = "2.81.43"
+description = "v2.81.43 Constellation Edition (Synced to upstream 2.81.1 + Elliptical Orbit Shader): Moon Label Anti-Overlap (#323) + Shortened Constellation Star Names (#324)"
 websiteUrl = "https://github.com/Touhma/DSP_Plugins"
 containsNsfwContent = false
 
