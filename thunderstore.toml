@@ -4,8 +4,8 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "Galactic_Scale"
 name = "GalacticScale"
-versionNumber = "2.81.43"
-description = "v2.81.43 Constellation Edition (Synced to upstream 2.81.1 + Elliptical Orbit Shader): Moon Label Anti-Overlap (#323) + Shortened Constellation Star Names (#324)"
+versionNumber = "2.81.44"
+description = "v2.81.44 Constellation Edition (Synced to upstream 2.81.1): 4K-DPI Safe Moon Label Anti-Overlap (#323) + Shortened Constellation Star Names (#324)"
 websiteUrl = "https://github.com/Touhma/DSP_Plugins"
 containsNsfwContent = false
 
