@@ -15,7 +15,7 @@ namespace GalacticScale
     }
 
  
-    [BepInPlugin("dsp.galactic-scale.2", "Galactic Scale 2 Plug-In", "3.0.2")]
+    [BepInPlugin("dsp.galactic-scale.2", "Galactic Scale 2 Plug-In", "3.0.5")]
     [BepInDependency("space.customizing.console", BepInDependency.DependencyFlags.SoftDependency)]
     [BepInDependency("dsp.nebula-multiplayer-api", BepInDependency.DependencyFlags.SoftDependency)]
     [BepInDependency("lltcggie.DSP.plugin.PlanetwidePlanetaryShieldGenerator", BepInDependency.DependencyFlags.SoftDependency)]
@@ -149,6 +149,7 @@ namespace GalacticScale
                 harmony.PatchAll(typeof(RemoteShipStuckRecovery));
                 harmony.PatchAll(typeof(MoreMegaStructuresCompatibility));
                 MoreMegaStructuresCompatibility.TryInstall(harmony);
+                harmony.PatchAll(typeof(PatchOnLocalization));
                 harmony.PatchAll(typeof(PatchOnThemeProto));
                 harmony.PatchAll(typeof(PatchOnTrashSystem));
                 

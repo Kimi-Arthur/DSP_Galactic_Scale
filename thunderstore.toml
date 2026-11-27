@@ -4,8 +4,8 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "Galactic_Scale"
 name = "GalacticScale"
-versionNumber = "3.0.2"
-description = "v3.0.2 Constellation Edition: Sibling Moon Anti-Overlap in 3D Space Guide (#323)"
+versionNumber = "3.0.5"
+description = "v3.0.5 Constellation Edition: Unified .Translate() localization (zh-CN planet themes, UI & HUD)"
 websiteUrl = "https://github.com/Touhma/DSP_Plugins"
 containsNsfwContent = false
 
