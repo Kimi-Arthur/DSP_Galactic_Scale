@@ -4,8 +4,8 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "Galactic_Scale"
 name = "GalacticScale"
-versionNumber = "3.0.1"
-description = "v3.0.1 Constellation Edition: Rectangular 78x34 DPI-Scaled Space-Guide Moon Label Anti-Overlap (#323)"
+versionNumber = "3.0.2"
+description = "v3.0.2 Constellation Edition: Sibling Moon Anti-Overlap in 3D Space Guide (#323)"
 websiteUrl = "https://github.com/Touhma/DSP_Plugins"
 containsNsfwContent = false
 
